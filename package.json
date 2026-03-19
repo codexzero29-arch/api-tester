@@ -3,8 +3,8 @@
   "version": "1.1.1",
   "description": "Acode plugin for rest api testing",
   "main": "dist/main.js",
-  "repository": "https://github.com/mayank0274/api-tester/",
-  "author": "Mayank Sharma",
+  "repository": "https://github.com/codexzero29-arch/api-tester/",
+  "author": "codexzero29-arch Sharma",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.2.1",
